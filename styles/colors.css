@@ -1,0 +1,28 @@
+
+.textColorBlack{
+    color: black;
+}
+
+.textColorWhite{
+    color: white;
+}
+
+.textColorDarkBlueDark{
+    color: rgb(40,42,53);
+}
+
+.backgroundColorWhite{
+    background-color: white;
+}
+
+.backgroundColorBlack{
+    background-color:black;
+}
+
+.backgroundColorDarkBlueDark{
+    background-color: rgb(40,42,53);
+}
+
+.backgroudnColorMixedWhite{
+    background-color: #E7E9EB;
+}
